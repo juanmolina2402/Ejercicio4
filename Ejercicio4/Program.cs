@@ -23,7 +23,7 @@ namespace Ejercicio4
                 }
                 else
                 {
-                   
+                    Aprobados++;
                 }
 
 
